@@ -47,4 +47,17 @@ This project focuses on building a machine learning model to predict airline tic
 
   Split: `75% Training` and `25% Testing`
 
+## 📈 Model Evaluation
+Metrics:
+
+  - R² Score (Coefficient of Determination)
+   
+  - MAE (Mean Absolute Error)
+   
+  - MSE (Mean Squared Error)
+   
+  - RMSE (Root Mean Squared Error)
+   
+  - MAPE (Mean Absolute Percentage Error)  
+
 
