@@ -31,3 +31,9 @@ This project focuses on building a machine learning model to predict airline tic
 
 - Removed irrelevant or redundant features (Route, Additional_Info, etc.).
 
+## 🔍 Exploratory Data Analysis
+- Analyzed price vs total stops.
+
+- Found relationships between flight duration and price.
+
+- Airline-wise pricing trends visualized using box plots.
