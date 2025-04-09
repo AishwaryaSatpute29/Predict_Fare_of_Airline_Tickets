@@ -45,4 +45,6 @@ This project focuses on building a machine learning model to predict airline tic
 
    - Decision Tree Regressor
 
+  Split: `75% Training` and `25% Testing`
+
 
