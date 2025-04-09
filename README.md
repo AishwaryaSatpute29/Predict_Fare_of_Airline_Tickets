@@ -1,2 +1,2 @@
-# Predict_Fare_of_Airline_Tickets Using Machine Learning
-This project aims to predict airline ticket fares using machine learning techniques. By analyzing various features like airline, route, travel date, departure time, and number of stops, we build a predictive model that estimates ticket prices accurately.
+# ✈️ Predict_Fare_of_Airline_Tickets Using Machine Learning
+## Objective: This project focuses on building a machine learning model to predict airline ticket prices based on historical flight data. It includes comprehensive data preprocessing, feature engineering, model building, hyperparameter tuning, and evaluation.
