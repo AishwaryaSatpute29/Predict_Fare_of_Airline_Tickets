@@ -73,4 +73,15 @@ Used RandomizedSearchCV for optimizing:
    
 Achieved improved R² Score and minimized error. 
 
+## ✅ Results
+Best performing model: Random Forest Regressor
+
+Performance Metrics:
+
+   - R² Score: ~0.81+
+   
+   - MAE: ~1100-1300
+   
+   - RMSE: ~1800-2000
+
 
