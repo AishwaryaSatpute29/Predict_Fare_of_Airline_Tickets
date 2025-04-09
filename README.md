@@ -9,14 +9,14 @@ This project focuses on building a machine learning model to predict airline tic
 ## 📊 Tech Stack
 - Python
 
--Pandas, NumPy
+- Pandas, NumPy
 
--Matplotlib, Seaborn, Plotly
+- Matplotlib, Seaborn, Plotly
 
--Scikit-learn
+- Scikit-learn
 
--RandomForestRegressor, DecisionTreeRegressor
+- RandomForestRegressor, DecisionTreeRegressor
 
--Hyperparameter tuning with RandomizedSearchCV
+- Hyperparameter tuning with RandomizedSearchCV
 
 
