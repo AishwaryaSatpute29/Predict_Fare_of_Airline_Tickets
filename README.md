@@ -7,7 +7,7 @@ This project focuses on building a machine learning model to predict airline tic
 - <a href="https://github.com/AishwaryaSatpute29/Predict_Fare_of_Airline_Tickets/blob/main/Test_set.xlsx"> Testing Dataset</a>
 
 ## 📊 Tech Stack
--Python
+- Python
 
 -Pandas, NumPy
 
