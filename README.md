@@ -5,3 +5,18 @@ This project focuses on building a machine learning model to predict airline tic
 ## Dataset Used:
 - <a href="https://github.com/AishwaryaSatpute29/Predict_Fare_of_Airline_Tickets/blob/main/Data_Train.xlsx"> Training Dataset</a>
 - <a href="https://github.com/AishwaryaSatpute29/Predict_Fare_of_Airline_Tickets/blob/main/Test_set.xlsx"> Testing Dataset</a>
+
+## 📊 Tech Stack
+-Python
+
+-Pandas, NumPy
+
+-Matplotlib, Seaborn, Plotly
+
+-Scikit-learn
+
+-RandomForestRegressor, DecisionTreeRegressor
+
+-Hyperparameter tuning with RandomizedSearchCV
+
+
