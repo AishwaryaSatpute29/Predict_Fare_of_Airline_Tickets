@@ -58,6 +58,19 @@ Metrics:
    
   - RMSE (Root Mean Squared Error)
    
-  - MAPE (Mean Absolute Percentage Error)  
+  - MAPE (Mean Absolute Percentage Error)
+
+## 🔧 Hyperparameter Tuning
+Used RandomizedSearchCV for optimizing:
+
+  - n_estimators
+   
+  - max_depth
+   
+  - max_features
+   
+  - min_samples_split
+   
+Achieved improved R² Score and minimized error. 
 
 
