@@ -37,3 +37,12 @@ This project focuses on building a machine learning model to predict airline tic
 - Found relationships between flight duration and price.
 
 - Airline-wise pricing trends visualized using box plots.
+
+## 🤖 Model Building
+- Models Trained:
+
+   - Random Forest Regressor
+
+   - Decision Tree Regressor
+
+
